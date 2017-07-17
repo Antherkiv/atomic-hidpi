@@ -12,6 +12,7 @@ Credit goes to original author, [lfelipe](https://github.com/lfelipe1501)
 ### Development by
 
 Developer / Author: [Luis Felipe Sánchez](https://github.com/lfelipe1501)
+
 Contributor / Author HDPI: [Tiberiu Ichim](https://github.com/tiberiuichim)
 
 ### License
